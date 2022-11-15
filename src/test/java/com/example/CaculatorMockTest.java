@@ -27,4 +27,3 @@ public class CaculatorMockTest {
 		verify(s).less(10,9);
     }
 }
-
